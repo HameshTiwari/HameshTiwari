@@ -10,7 +10,8 @@ I am a seasoned Data Architect transitioning legacy enterprise ecosystems into m
 
 - 🏗️ **Currently Building:** A Secure RAG (Retrieval-Augmented Generation) Auditor for enterprise financial data.
 - 🧪 **Specializing In:** Neutralizing LLM vulnerabilities (OWASP Top 10 for LLM) through metadata-driven SQL shielding.
-- 🏃 **Endurance Athlete:** Multiple **Full Ironman Triathlons** and **50K Ultra-marathons** completed. I apply the same "long-game" discipline to architectural stability and system performance.
+- 🏊🚴🏃<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4be92748-625e-41d9-9cf1-469693e59506" />
+ **Endurance Athlete:** Multiple **Full Ironman Triathlons** and **50K Ultra-marathons** completed. I apply the same "long-game" discipline to architectural stability and system performance.
 
 ---
 
