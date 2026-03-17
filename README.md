@@ -23,7 +23,7 @@ I am a seasoned Data Architect transitioning legacy enterprise ecosystems into m
 ---
 
 ### **📊 Featured Projects** (Updating)
-- **[Secure-AI-Auditor](https://github.com/HameshTiwari/your-repo-link):** A secure RAG gateway with a custom SQL Shield to prevent prompt injection and unauthorized DDL operations.
+- **[Secure-AI-Auditor](https://github.com/HameshTiwari/Secure-AI-Financial-Auditor/tree/main):** A secure RAG gateway with a custom SQL Shield to prevent prompt injection and unauthorized DDL operations.
 - **[Retail-Medallion-Pipeline](https://github.com/HameshTiwari/Retail-Medallion-Pipeline):** An end-to-end Spark/Airflow pipeline processing 50M+ records using Parquet/Snappy for optimized OLAP analytics.
 
 ---
