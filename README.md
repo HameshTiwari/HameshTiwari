@@ -1,4 +1,4 @@
-# Hi, I'm Hamesh Tiwari 👋
+# Hi, I'm Hamesh Tiiwari 👋
 
 ### **Senior Data Architect | AI Security & Infrastructure**
 **15+ Years of Engineering High-Availability Systems & Scalable Data Foundations**
