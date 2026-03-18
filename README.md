@@ -1,8 +1,7 @@
 # Hi, I'm Hamesh Tiwari 👋
 
 ### **Senior Data Architect | AI Security & Infrastructure**
-*15+ Years of Engineering High-Availability Systems & Scalable Data Foundations*
-
+**15+ Years of Engineering High-Availability Systems & Scalable Data Foundations**
 ---
 
 ### **🚀 About Me**
@@ -16,21 +15,38 @@ I am a seasoned Data Architect transitioning legacy enterprise ecosystems into m
 ---
 
 ### **🛠️ Tech Stack & Expertise**
-- **Languages:** Python (PySpark), Java, SQL (Hive/Presto/Oracle), Bash.
-- **Big Data:** Spark 3.x, Hadoop, Hive LLAP, Kafka, Apache Airflow.
+- **Languages:** Python (PySpark), Java, SQL (Hive/Presto/Oracle), Bash , Colang (NeMo).
+- **Big Data:** Spark 3.x, Hadoop, Hive LLAP, Kafka, Apache Airflow,Redis , Oracle MySQL.
+- **AI/ML:** LangChain, Vertex AI, LLM Safety Guardrails.
 - **AI & Security:** LangChain, RAG Architectures, SQL Injection Defense, PII Masking, Gemini/OpenAI API.
-- **Infrastructure:** AWS (S3, EC2), DataBricks , Redis, Docker, CI/CD (GitHub Actions).
-
+- **Cloud Infrastructure:** AWS (EC2, S3, RDS, Beanstalk), Docker, CI/CD.
 ---
 
-### **📊 Featured Projects** (Updating)
-- **[Secure-AI-Auditor](https://github.com/HameshTiwari/Secure-AI-Financial-Auditor/tree/main):** A secure RAG gateway with a custom SQL Shield to prevent prompt injection and unauthorized DDL operations.
-- **[Retail-Medallion-Pipeline](https://github.com/HameshTiwari/Retail-Medallion-Pipeline):** An end-to-end Spark/Airflow pipeline processing 50M+ records using Parquet/Snappy for optimized OLAP analytics.
+### 🛡️ Featured Project: Secure AI Financial Auditor
+**RAG Security | Gemini 3.x | SQL Defense**
+- A secure RAG gateway with a custom SQL Shield to prevent prompt injection and unauthorized DDL operations.
+- A secure auditing engine connecting LLMs to Hive Gold Layers.
+- Engineered a custom validation layer to block prompt injections and unauthorized DDL.
+- **[Secure-AI-Auditor](https://github.com/HameshTiwari/Secure-AI-Financial-Auditor/tree/main):** 
+
+### 🏗️ Featured Project: Enterprise Microservices Engine
+**Distributed Systems | Spring Boot | Kafka | AWS**
+- Architected a modular e-commerce backend with independent service autonomy.
+- Implemented asynchronous event-streaming via Kafka and Redis caching for sub-second latency.
+- [View Repository](link-to-repo)
+
+### 📊 Featured Project: Retail Analytics Platform
+**Big Data | PySpark | Medallion Architecture**
+- An end-to-end Spark/Airflow pipeline processing 50M+ records using Parquet/Snappy for optimized OLAP analytics.
+- **[Retail-Medallion-Pipeline](https://github.com/HameshTiwari/Retail-Medallion-Pipeline):** 
 
 ---
+### 🏁 Beyond the Code
+I am a **Full-Distance Ironman Athlete**. I apply the same grit and long-term planning required for triathlons to the architectural migrations I lead. 
 
-### **📫 Connect with Me**
-- **LinkedIn:** [Hamesh Tiwari]
+### **📫 Connect with Me** 
+- **LinkedIn:** [[Hamesh Tiwari](https://www.linkedin.com/in/hameshtiwari/)]
+- **Email:**[Hamesh Tiwari](mailto:hameshtiiwari@gmail.com)
 - **Interests:** Animal Welfare (Rescue Advocate), Classical Music Structure, Precision Horticulture.
 
 ---
