@@ -30,10 +30,10 @@ I am a seasoned Data Architect transitioning legacy enterprise ecosystems into m
 - **[Secure-AI-Auditor](https://github.com/HameshTiwari/Secure-AI-Financial-Auditor/tree/main):** 
 
 ### 🏗️ Featured Project: Enterprise Microservices Engine
-**Distributed Systems | Spring Boot | Kafka | AWS**
+**Distributed Systems | Java | Spring Boot | Kafka | AWS**
 - Architected a modular e-commerce backend with independent service autonomy.
 - Implemented asynchronous event-streaming via Kafka and Redis caching for sub-second latency.
-- [View Repository](link-to-repo)
+- [User Service](https://github.com/HameshTiwari/Capstone-UserService) ,- [Product Service](https://github.com/HameshTiwari/Capstone-ProductServices) ,- [Payment Service](https://github.com/HameshTiwari/Capstone-PaymentServices) ,- [Email Service](https://github.com/HameshTiwari/Capstone-EmailService)
 
 ### 📊 Featured Project: Retail Analytics Platform
 **Big Data | PySpark | Medallion Architecture**
